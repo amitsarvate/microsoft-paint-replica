@@ -23,3 +23,4 @@ This project signifies at pivotal moment within my early coding career because d
 
 I learned through the process of trial and error as well as much research about the subject about user design/experience (UI/UX) the ins and outs of creating a layout that not only looks amazing but is intuitive and easy for the user to use! These two aspects result in an amazing experience for users who use my program. 
 
+Developing this program also gave me experience with keyboard and mouse movements and incoperating event listeners into my code 
