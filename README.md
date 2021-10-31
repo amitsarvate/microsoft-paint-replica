@@ -12,7 +12,7 @@ The program boasts many features including -
 
 * adjustable thickness
 * spray paint tool
-* ability to draw shapes (ractangles, squares and maple leaves) 
+* ability to draw shapes (rectangles, squares and maple leaves) 
 * colour palette with colour wheel that shows which colour is in use 
 
 The program also integrates some more advanced features such as the ability to clear the screen, save images drawn and load previously saved images! 
